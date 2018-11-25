@@ -11,7 +11,7 @@
     "mongodb": "^3.1.10"
   },
   "engines": {
-    "node": "8.x"
+    "node": "11.2"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/hello-express"
